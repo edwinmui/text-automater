@@ -17,7 +17,7 @@ In the spam.txt file, you are able to replace the current text with an desired t
 you wish to send via iMessage.
 
 ## Usage
-In terminal, run the program with:
+In terminal, navigate to the source foler and run the program with:
 ```bash
 python3 main.py
 ```
