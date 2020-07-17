@@ -1,4 +1,6 @@
 # Text Automater
+Text Automater is a program that lets you send messages containing any desired text to any iMessage phone number word by word.
+Written in AppleScript and Python, this program works on all macOS devices.
 
 ## Installation
 
@@ -11,13 +13,13 @@ download the AppleScript extension by idleberg (VSCode > Extensions > Search "Ap
 
 ## Setup
 In the config.py file, there is a variable called *PHONE_NUM*. Change the value
-to the desired iPhone phone number you wish to send messages to.
+to the desired iMessage phone number you wish to send messages to.
 
 In the spam.txt file, you are able to replace the current text with an desired text
 you wish to send via iMessage.
 
 ## Usage
-In terminal, navigate to the source foler and run the program with:
+In terminal, navigate to the source folder and run the program with:
 ```bash
 python3 main.py
 ```
