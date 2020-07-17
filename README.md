@@ -3,9 +3,9 @@
 ## Installation
 
 To use this program, first clone the repo to your macOS system:
-'''bash
+```bash
 git clone https://github.com/edwinmui/text-automater.git
-'''
+```
 I recommend using VSCode to open the program. If you use VSCode, made sure to 
 download the AppleScript extension by idleberg (VSCode > Extensions > Search "AppleScript")
 
@@ -18,8 +18,7 @@ you wish to send via iMessage.
 
 ## Usage
 In terminal, run the program with:
-'''bash
+```bash
 python3 main.py
-'''
-
-## Enjoy!
+```
+Enjoy!
