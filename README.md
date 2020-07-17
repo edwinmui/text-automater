@@ -1,5 +1,5 @@
 # Text Automater
-Text Automater is a program that lets you send messages containing any desired text to any iMessage phone number word by word.
+Text Automater is a program that lets you send messages containing any desired text to any iMessage phone number, word by word.
 Written in AppleScript and Python, this program works on all macOS devices.
 
 ## Installation
