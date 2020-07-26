@@ -23,4 +23,4 @@ In terminal, navigate to the source folder and run the program with:
 ```bash
 python3 main.py
 ```
-Enjoy!
+Have fun! (and please use responsibly).
